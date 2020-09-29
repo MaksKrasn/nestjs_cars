@@ -11,4 +11,4 @@ import { CarSchema } from './schema/car.schema';
     controllers: [CarsController],
     providers: [CarsService]
   })
-  export class PeopleModule {}
+  export class CarsModule {}
